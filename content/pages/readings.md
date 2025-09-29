@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides a list of readings for each topic of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -123,7 +125,7 @@ Cohen, Mark A. "Monitoring and Enforcement of Environmental Policy." Mimeograph,
 
 Fullerton, Don, and Thomas C. Kinnaman. "Household Response to Pricing Garbage by the Bag." _American Economic Review_ 86, no. 4 (1996): 971-84.
 
-Fullerton, Don, and Sarah West. "{{% resource_link "be87b361-8c7b-4e48-a10e-7ad5a63e9b81" "Tax and Subsidy Combinations for the Control of Car Pollution" %}}." NBER Working Paper No. 7774, July 2000.
+Fullerton, Don, and Sarah West. "[Tax and Subsidy Combinations for the Control of Car Pollution](http://www.nber.org/papers/w7774)." NBER Working Paper No. 7774, July 2000.
 
 Sandel, Michael J. "It's Immoral to Buy the Right to Pollute." Chapter 19 in _EESR_.
 
@@ -195,7 +197,7 @@ Copeland, Brian, and M. Scott Taylor. "Trade, Growth, and the Environment." _Jou
 
 Antweiler, Werner, Brian Copeland, and Scott Taylor. "Is Free Trade Good for the Environment?" _American Economic Review_ 91, no. 4 (2001): 877-908.
 
-See also: {{% resource_link "dd08cb84-ee31-461d-9134-66ce4f06a73c" "http://en.wikipedia.org/wiki/Summers\_memo" %}}
+See also: [http://en.wikipedia.org/wiki/Summers\_memo](http://en.wikipedia.org/wiki/Summers_memo)
 
 
 {{< tdclose >}}
@@ -224,9 +226,9 @@ Jorgenson, Dale W., and Peter J. Wilcoxen. "Environmental Regulation and U.S. Ec
 
 Gardiner, David, and Paul R. Portney. "Does Environmental Policy Conflict with Economic Growth." In _RFF_.
 
-Stavins, Robert, Judson Jaffe, and Todd Schatzki. "{{% resource_link "78a7fc8f-33b4-4bf3-aeb3-4e4a5ae9c865" "Too Good to be True? An Examination of Three Economic Assessments of California Climate Change Policy" %}}." NBER Working Paper No. 13587, November 2007.
+Stavins, Robert, Judson Jaffe, and Todd Schatzki. "[Too Good to be True? An Examination of Three Economic Assessments of California Climate Change Policy](http://www.nber.org/papers/w13587)." NBER Working Paper No. 13587, November 2007.
 
-{{% resource_link "048e13d8-2434-4aaf-b77d-6dba2bdc5661" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jaffe, Adam B., Richard G. Newell, and Robert N. Stavins. "Technology Policy for Energy and the Environment." In _Innovation Policy and the Economy._ Vol. 4. Edited by Adam B. Jaffe, Josh Lerner, and Scott Stern. MIT Press, 2004. ISBN: 9780262600606.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600606) Jaffe, Adam B., Richard G. Newell, and Robert N. Stavins. "Technology Policy for Energy and the Environment." In _Innovation Policy and the Economy._ Vol. 4. Edited by Adam B. Jaffe, Josh Lerner, and Scott Stern. MIT Press, 2004. ISBN: 9780262600606.
 
 Porter, Michael E., and Class Van der Linde. "Toward a New Conception of the Environment-Competitiveness Relationship." _Journal of Economic Perspectives_ 9, no. 4 (Fall 1995): 97-118.
 
@@ -281,7 +283,7 @@ _Hedonic price indices_
 
 Kolstad, chapter 8.
 
-Ashenfelter, Orley, and Michael Greenstone. "{{% resource_link "ea980e17-cbe7-4166-82a8-2c69c0747ca5" "Using Mandated Speed Limits to Measure the Value of a Statistical Life: Evidence from the Introduction of the 65-mph Speed Limit on Rural Interstates" %}}." NBER Working Paper No. 9094, August 2002.
+Ashenfelter, Orley, and Michael Greenstone. "[Using Mandated Speed Limits to Measure the Value of a Statistical Life: Evidence from the Introduction of the 65-mph Speed Limit on Rural Interstates](http://www.nber.org/papers/w9094)." NBER Working Paper No. 9094, August 2002.
 
 Chay, Kenneth, and Michael Greenstone. "Does Air Quality Matter? Evidence from the Housing Market." Mimeograph, University of Chicago, 2004.
 
@@ -351,7 +353,7 @@ Chay, Kenneth, Carlos Dobkin, and Michael Greenstone. "The Clean Air Act of 1970
 
 Chay, Kenneth, and Michael Greenstone. "The Impact of Air Pollution on Infant Mortality: Evidence from Geographic Variation in Pollution Shocks Induced by a Recession." _Quarterly Journal of Economics_ 118, no. 3 (2003): 1121-1167.
 
-———. "{{% resource_link "982f93d0-084b-4066-a2bb-7f89cb26c5f5" "Air Quality, Infant Mortality, and the Clean Air Act of 1970" %}}." NBER Working Paper No. 10053, October 2003.
+———. "[Air Quality, Infant Mortality, and the Clean Air Act of 1970](http://www.nber.org/papers/w10053)." NBER Working Paper No. 10053, October 2003.
 
 Dockery, Douglas W., et al. "An Association Between Air Pollution and Mortality in Six U.S. Cities." _The New England Journal of Medicine_ 329, no. 24 (1993): 1753-1759.
 

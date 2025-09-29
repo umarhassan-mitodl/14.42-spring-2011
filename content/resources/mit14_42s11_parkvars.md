@@ -4,6 +4,8 @@ description: This resource contains description of park variables.
 file: /courses/14-42-environmental-policy-and-economics-spring-2011/4ba998e831ac2ee829b21fe77179388e_MIT14_42S11_parkvars.pdf
 file_size: 42144
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
